@@ -1,10 +1,11 @@
 .btn-text {
     width: 100px;
     height: 100px;
+    font-size: 3rem;
 }
 
 .red {
-    background: red; 
+    background: rgb(163, 24, 24); 
 }
 
 .white {
@@ -15,6 +16,7 @@
     width: 300px;
     height: 100px;
     background: white;
-    /* font-size: 3rem; */
-}
+    font-size: 3rem;
 
+   
+}
