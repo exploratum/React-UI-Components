@@ -1,0 +1,22 @@
+.btn-number {
+    width: 23%;
+    height: 100px;
+    font-size: 3rem;
+    background: white;
+}
+
+.btn-operation {
+    width: 31%;
+    height: 100px;
+    font-size: 3rem;
+    background: rgb(163, 24, 24);
+}
+
+.btn-action {
+    width: 69%;
+    height: 100px;
+    background: white;
+    font-size: 3rem;
+
+   
+}
